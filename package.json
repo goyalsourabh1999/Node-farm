@@ -2,10 +2,10 @@
   "name": "lecture14",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "servercopy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon servercopy.js"
+    "start": "node servercopy.js"
   },
   "keywords": [],
   "author": "",
